@@ -19,7 +19,9 @@
 
 ## 1. Project Overview <a class="anchor" id="project-description"></a>
 
-Your team has been hired as data science consultants for 'The Indian Express' to create news classification models using Python and deploy it as a web application with Streamlit. This end-to-end project encompasses the entire workflow, including data loading, preprocessing, model training, evaluation, and final deployment. The aim is to provide you with a hands-on demonstration of applying machine learning techniques to natural language processing tasks.
+Your team has been hired as data science consultants for 'The Indian Express' to create news classification models using Python and deploy it as a web application with Streamlit. The news classification project enhances the efficiency and accuracy of content categorization, making it easier for readers to find relevant news. Additionally, it streamlines editorial workflows, reduces manual effort, and enables better data-driven decision-making for management, ultimately improving the overall user experience and operational efficiency of "The Indian Express".
+
+The aim is to provide you with a hands-on demonstration of applying machine learning techniques to natural language processing tasks.  This end-to-end project encompasses the entire workflow, including data loading, preprocessing, model training, evaluation, and final deployment. The primary stakeholders for the news classification project for "The Indian Express" could include the editorial team, IT/tech support, management, readers, etc. These groups are interested in improved content categorization, operational efficiency, and enhanced user experience.
 
 
 ## 2. Dataset <a class="anchor" id="dataset"></a>
