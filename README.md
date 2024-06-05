@@ -18,7 +18,9 @@
 * [6. Team Members](#team-members)
 
 ## 1. Project Overview <a class="anchor" id="project-description"></a>
-For this Classification sprint, the project covers the entire workflow from data loading and preprocessing to model training, evaluation, and final deployment. 
+
+Your team has been hired as data science consultants for 'The Indian Express' to create news classification models using Python and deploy it as a web application with Streamlit. This end-to-end project encompasses the entire workflow, including data loading, preprocessing, model training, evaluation, and final deployment. The aim is to provide you with a hands-on demonstration of applying machine learning techniques to natural language processing tasks.
+
 
 ## 2. Dataset <a class="anchor" id="dataset"></a>
 The dataset is comprised of news articles that need to be classified into categories based on their content, including `Business`, `Technology`, `Sports`, `Education`, and `Entertainment`.
