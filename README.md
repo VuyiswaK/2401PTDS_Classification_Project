@@ -18,10 +18,10 @@
 * [6. Team Members](#team-members)
 
 ## 1. Project Overview <a class="anchor" id="project-description"></a>
-
+For this Classification sprint, the project covers the entire workflow from data loading and preprocessing to model training, evaluation, and final deployment. 
 
 ## 2. Dataset <a class="anchor" id="dataset"></a>
-
+The dataset is comprised of news articles that need to be classified into categories based on their content, including `Business`, `Technology`, `Sports`, `Education`, and `Entertainment`.
 
 **Dataset Features:**
 | **Column**                                                                                  | **Description**              
@@ -31,6 +31,7 @@
 | Content | The full text content of the news article.
 | URL | The URL link to the original source of the news article.
 | Category | The category or topic of the news article (e.g., business, education, entertainment, sports, technology).
+
 ## 3. Packages <a class="anchor" id="packages"></a>
 
 To carry out all the objectives for this repo, the following necessary dependencies were loaded:
