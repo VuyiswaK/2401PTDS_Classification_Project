@@ -1,6 +1,6 @@
 ## 2401FTDS_Classification_Project
 
-# Analyzing News Articles Dataset from "The Indian Express"
+# Analyzing News Articles Dataset
 
 
 ![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](URL_TO_YOUR_APP)
@@ -19,8 +19,7 @@
 
 ## 1. Project Overview <a class="anchor" id="project-description"></a>
 
-Your team has been hired as data science consultants for 'The Indian Express' to create news classification models using Python and deploy it as a web application with Streamlit. The news classification project enhances the efficiency and accuracy of content categorization, making it easier for readers to find relevant news. Additionally, it streamlines editorial workflows, reduces manual effort, and enables better data-driven decision-making for management, ultimately improving the overall user experience and operational efficiency of "The Indian Express".
-
+Your team has been hired as data science consultants for a news outlet to create news classification models using Python and deploy it as a web application with Streamlit. 
 The aim is to provide you with a hands-on demonstration of applying machine learning techniques to natural language processing tasks.  This end-to-end project encompasses the entire workflow, including data loading, preprocessing, model training, evaluation, and final deployment. The primary stakeholders for the news classification project for "The Indian Express" could include the editorial team, IT/tech support, management, readers, etc. These groups are interested in improved content categorization, operational efficiency, and enhanced user experience.
 
 
