@@ -1,6 +1,6 @@
 ## 2401FTDS_Classification_Project
 
-# Analyzing News Articles Dataset
+# Analysing News Articles Dataset
 
 
 ![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](URL_TO_YOUR_APP)
@@ -14,13 +14,14 @@
 * [2. Dataset](#dataset)
 * [3. Packages](#packages)
 * [4. Environment](#environment)
-* [5. Streamlit](#streamlit)
-* [6. Team Members](#team-members)
+* [5. MLFlow](#mlflow)
+* [6. Streamlit](#streamlit)
+* [7. Team Members](#team-members)
 
 ## 1. Project Overview <a class="anchor" id="project-description"></a>
 
-Your team has been hired as data science consultants for a news outlet to create news classification models using Python and deploy it as a web application with Streamlit. 
-The aim is to provide you with a hands-on demonstration of applying machine learning techniques to natural language processing tasks.  This end-to-end project encompasses the entire workflow, including data loading, preprocessing, model training, evaluation, and final deployment. The primary stakeholders for the news classification project for "The Indian Express" could include the editorial team, IT/tech support, management, readers, etc. These groups are interested in improved content categorization, operational efficiency, and enhanced user experience.
+Your team has been hired as data science consultants for a news outlet to create classification models using Python and deploy it as a web application with Streamlit. 
+The aim is to provide you with a hands-on demonstration of applying machine learning techniques to natural language processing tasks.  This end-to-end project encompasses the entire workflow, including data loading, preprocessing, model training, evaluation, and final deployment. The primary stakeholders for the news classification project for the news outlet could include the editorial team, IT/tech support, management, readers, etc. These groups are interested in improved content categorization, operational efficiency, and enhanced user experience.
 
 
 ## 2. Dataset <a class="anchor" id="dataset"></a>
@@ -63,8 +64,10 @@ conda install pip
 # install the requirements for this project
 pip install -r requirements.txt
 ```
+## 5. MLFlow<a class="anchor" id="mlflow"></a>
 
-## 5. Streamlit<a class="anchor" id="streamlit"></a>
+
+## 6. Streamlit<a class="anchor" id="streamlit"></a>
 
 To fork the repo, simply ensure that you are logged into your GitHub account, and then click on the 'fork' button at the top of this page as indicated within the figure above.
 
@@ -123,7 +126,7 @@ As a first step to becoming familiar with our web app's functioning, we recommen
 ```
 
 
-## 6. Team Members<a class="anchor" id="team-members"></a>
+## 7. Team Members<a class="anchor" id="team-members"></a>
 
 | Name                                                                                        |  Email              
 |---------------------------------------------------------------------------------------------|--------------------             
@@ -131,5 +134,5 @@ As a first step to becoming familiar with our web app's functioning, we recommen
 | [James Beta](https://github.com/James-Beta)                                                                                  | jbeta@sandtech.com
 | [Oladare Adekunle](https://github.com/DareSandtech)                                                                            | oadekunle@sandtech.com
 | [Ereshia Gabier](https://github.com/ereshia)                                                | egabier@sandtech.com
-| [Annegret Muller]()                                                                           | amuller@sandtech.com
-| [Zintle Faltein-Maqubela]()                                                                   | zfaltein-maqubela@sandtech.com
+| [Annegret Muller](https://github.com/AnnegretExplore)                                       | amuller@sandtech.com
+| [Zintle Faltein-Maqubela](https://github.com/ZintleFaltein)                                                                   | zfaltein-maqubela@sandtech.com
