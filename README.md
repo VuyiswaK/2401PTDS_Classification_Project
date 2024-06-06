@@ -128,7 +128,7 @@ As a first step to becoming familiar with our web app's functioning, we recommen
 
 | Name                                                                                        |  Email              
 |---------------------------------------------------------------------------------------------|--------------------             
-| [Marc Marais](https://github.com/marcmarais)                                                | mmarias@sandtech.com
+| [Marc Marais](https://github.com/marcmarais)                                                | mmarais@sandtech.com
 | [James Beta](https://github.com/James-Beta)                                                                                  | jbeta@sandtech.com
 | [Oladare Adekunle](https://github.com/DareSandtech)                                                                            | oadekunle@sandtech.com
 | [Ereshia Gabier](https://github.com/ereshia)                                                | egabier@sandtech.com
