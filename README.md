@@ -66,6 +66,11 @@ pip install -r requirements.txt
 ```
 ## 5. MLFlow<a class="anchor" id="mlflow"></a>
 
+MLOps, which stands for Machine Learning Operations, is a practice focused on managing and streamlining the lifecycle of machine learning models. MLflow is a modern MLOps tool designed to facilitate collaboration on data projects, enabling teams to track experiments, manage models, and streamline deployment processes. 
+
+For this project, you will use MLflow to help track hyperparameter tuning by logging and comparing different model configurations. This lets you easily identify and select the best-performing model based on logged metrics.
+
+- Please have a look here and follow the instructions: https://www.mlflow.org/docs/2.7.1/quickstart.html#quickstart
 
 ## 6. Streamlit<a class="anchor" id="streamlit"></a>
 
@@ -89,7 +94,7 @@ For this repository, we are only concerned with a single file:
 | `base_app.py`          | Streamlit application definition. |
 
 
-#### 5.1 Running the Streamlit web app on your local machine
+#### 6.1 Running the Streamlit web app on your local machine
 
 As a first step to becoming familiar with our web app's functioning, we recommend setting up a running instance on your own local machine. To do this, follow the steps below by running the given commands within a Git bash (Windows), or terminal (Mac/Linux):
 
@@ -102,7 +107,7 @@ As a first step to becoming familiar with our web app's functioning, we recommen
 - Navigate to the base of your repo where your base_app.py is stored, and start the Streamlit app.
 
  ```bash
- cd classification-streamlit/
+ cd 2401FTDS_Classification_Project/
  streamlit run base_app.py
  ```
 
@@ -114,7 +119,19 @@ As a first step to becoming familiar with our web app's functioning, we recommen
     Local URL: http://localhost:8501
     Network URL: http://192.168.43.41:8501
 ```
+You should also be automatically directed to the base page of your web app. This should look something like:
 
+<div id="s_image" align="center">
+  <img src="https://github.com/ereshia/2401FTDS_Classification_Project/blob/main/Streamlit_image.png" width="850" height="400" alt=""/>
+</div>
+
+Congratulations! You've now officially deployed your first web application!
+
+#### 6.2 Deploying your Streamlit web app
+
+- To deploy your app for all to see, click on `deploy`.
+  
+- Please note: If it's your first time deploying it will redirect you to set up an account first. Please follow the instructions.
 
 ## 7. Team Members<a class="anchor" id="team-members"></a>
 
