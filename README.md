@@ -107,7 +107,7 @@ As a first step to becoming familiar with our web app's functioning, we recommen
 - Navigate to the base of your repo where your base_app.py is stored, and start the Streamlit app.
 
  ```bash
- cd 2401FTDS_Classification_Project/
+ cd 2401FTDS_Classification_Project/Streamlit/
  streamlit run base_app.py
  ```
 
