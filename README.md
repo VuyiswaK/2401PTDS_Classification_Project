@@ -69,20 +69,16 @@ pip install -r requirements.txt
 
 ## 6. Streamlit<a class="anchor" id="streamlit"></a>
 
-To fork the repo, simply ensure that you are logged into your GitHub account, and then click on the 'fork' button at the top of this page as indicated within the figure above.
-
 ### What is Streamlit?
 
-This repository forms the basis of *Task 2* for the **Classification Predict** within EDSA's Data Science course. It hosts template code which will enable students to deploy a basic [Streamlit](https://www.streamlit.io/) web application.
-
-Streamlit is a framework that acts as a web server with dynamic visuals, multiple responsive pages, and robust deployment of your models. :star:
+[Streamlit](https://www.streamlit.io/)  is a framework that acts as a web server with dynamic visuals, multiple responsive pages, and robust deployment of your models. :star:
 
 In its own words:
 > Streamlit ... is the easiest way for data scientists and machine learning engineers to create beautiful, performant apps in only a few hours!  All in pure Python. All for free.
 
 > It’s a simple and powerful app model that lets you build rich UIs incredibly quickly.
 
-Streamlit takes away much of the background work needed in order to get a platform which can deploy your models to clients and end users. Meaning that you get to focus on the important stuff (related to the data), and can largely ignore the rest. This will allow you to become a lot more productive.  
+[Streamlit](https://www.streamlit.io/)  takes away much of the background work needed in order to get a platform which can deploy your models to clients and end users. Meaning that you get to focus on the important stuff (related to the data), and can largely ignore the rest. This will allow you to become a lot more productive.  
 
 ##### Description of files
 
@@ -103,16 +99,10 @@ As a first step to becoming familiar with our web app's functioning, we recommen
  pip install -U streamlit numpy pandas scikit-learn
  ```
 
-- Clone the *forked* repo to your local machine.
+- Navigate to the base of your repo where your base_app.py is stored, and start the Streamlit app.
 
  ```bash
- git clone https://github.com/{your-account-name}/2401FTDS_Classification_Project.git
- ```  
-
-- Navigate to the base of the cloned repo, and start the Streamlit app.
-
- ```bash
- cd classification-predict-streamlit-template/
+ cd classification-streamlit/
  streamlit run base_app.py
  ```
 
