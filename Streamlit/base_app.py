@@ -60,11 +60,11 @@ def main():
 	if selection == "Prediction":
 		st.info("Prediction with ML Models")
 		# Creating a text box for user input
-		tweet_text = st.text_area("Enter Text","Type Here")
+		news_text = st.text_area("Enter Text","Type Here")
 
 		if st.button("Classify"):
 			# Transforming user input with vectorizer
-			vect_text = tweet_cv.transform([tweet_text]).toarray()
+			vect_text = test_cv.transform([news_text]).toarray()
 			# Load your .pkl file with the model of your choice + make predictions
 			# Try loading in multiple models to give the user a choice
 			predictor = joblib.load(open(os.path.join("streamlit/Logistic_regression.pkl"),"rb"))
