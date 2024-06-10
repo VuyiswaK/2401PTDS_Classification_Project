@@ -27,7 +27,7 @@ The aim is to provide you with a hands-on demonstration of applying machine lear
 
 
 ## 2. Dataset <a class="anchor" id="dataset"></a>
-The dataset is comprised of news articles that need to be classified into categories based on their content, including `Business`, `Technology`, `Sports`, `Education`, and `Entertainment`.
+The dataset is comprised of news articles that need to be classified into categories based on their content, including `Business`, `Technology`, `Sports`, `Education`, and `Entertainment`. You can find both the `train.csv` and `test.csv` datasets [here](https://github.com/ereshia/2401FTDS_Classification_Project/tree/main/Data/processed).
 
 **Dataset Features:**
 | **Column**                                                                                  | **Description**              
@@ -68,9 +68,7 @@ pip install -r requirements.txt
 ```
 ## 5. MLFlow<a class="anchor" id="mlflow"></a>
 
-MLOps, which stands for Machine Learning Operations, is a practice focused on managing and streamlining the lifecycle of machine learning models. MLflow is a modern MLOps tool designed to facilitate collaboration on data projects, enabling teams to track experiments, manage models, and streamline deployment processes. 
-
-For this project, you will use MLflow to help track hyperparameter tuning by logging and comparing different model configurations. This lets you easily identify and select the best-performing model based on logged metrics.
+MLOps, which stands for Machine Learning Operations, is a practice focused on managing and streamlining the lifecycle of machine learning models. The modern MLOps tool, MLflow is designed to facilitate collaboration on data projects, enabling teams to track experiments, manage models, and streamline deployment processes. For experimentation, testing, and reproducibility of the machine learning models in this project, you will use MLflow. MLflow will help track hyperparameter tuning by logging and comparing different model configurations. This allows you to easily identify and select the best-performing model based on the logged metrics.
 
 - Please have a look here and follow the instructions: https://www.mlflow.org/docs/2.7.1/quickstart.html#quickstart
 
@@ -78,7 +76,7 @@ For this project, you will use MLflow to help track hyperparameter tuning by log
 
 ### What is Streamlit?
 
-[Streamlit](https://www.streamlit.io/)  is a framework that acts as a web server with dynamic visuals, multiple responsive pages, and robust deployment of your models. :star:
+[Streamlit](https://www.streamlit.io/)  is a framework that acts as a web server with dynamic visuals, multiple responsive pages, and robust deployment of your models.
 
 In its own words:
 > Streamlit ... is the easiest way for data scientists and machine learning engineers to create beautiful, performant apps in only a few hours!  All in pure Python. All for free.
