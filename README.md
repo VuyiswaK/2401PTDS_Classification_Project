@@ -1,3 +1,5 @@
+##### **Please note**: Download the repository as a zipped folder, create a private repository, and upload the content to it. This way, you can collaborate with your teammates effectively.
+
 ## 2401FTDS_Classification_Project
 
 # Analysing News Articles Dataset
