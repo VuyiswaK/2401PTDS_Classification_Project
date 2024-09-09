@@ -1,6 +1,6 @@
 ##### **Please note**: Download the repository as a zipped folder, create a private repository, and upload the content to it. This way, you can collaborate with your teammates effectively.
 
-## 2401FTDS_Classification_Project
+## 2401PTDS_Classification_Project
 
 # Analysing News Articles Dataset
 
@@ -27,7 +27,7 @@ The aim is to provide you with a hands-on demonstration of applying machine lear
 
 
 ## 2. Dataset <a class="anchor" id="dataset"></a>
-The dataset is comprised of news articles that need to be classified into categories based on their content, including `Business`, `Technology`, `Sports`, `Education`, and `Entertainment`. You can find both the `train.csv` and `test.csv` datasets [here](https://github.com/ereshia/2401FTDS_Classification_Project/tree/main/Data/processed).
+The dataset is comprised of news articles that need to be classified into categories based on their content, including `Business`, `Technology`, `Sports`, `Education`, and `Entertainment`. You can find both the `train.csv` and `test.csv` datasets [here](https://github.com/Jana-Liebenberg/2401PTDS_Classification_Project/tree/main/Data/processed). 
 
 **Dataset Features:**
 | **Column**                                                                                  | **Description**              
@@ -107,7 +107,7 @@ As a first step to becoming familiar with our web app's functioning, we recommen
 - Navigate to the base of your repo where your base_app.py is stored, and start the Streamlit app.
 
  ```bash
- cd 2401FTDS_Classification_Project/Streamlit/
+ cd 2401PTDS_Classification_Project/Streamlit/
  streamlit run base_app.py
  ```
 
@@ -137,9 +137,13 @@ Congratulations! You've now officially deployed your first web application!
 
 | Name                                                                                        |  Email              
 |---------------------------------------------------------------------------------------------|--------------------             
-| [Marc Marais](https://github.com/marcmarais)                                                | mmarais@sandtech.com
-| [James Beta](https://github.com/James-Beta)                                                                                  | jbeta@sandtech.com
-| [Oladare Adekunle](https://github.com/DareSandtech)                                                                            | oadekunle@sandtech.com
-| [Ereshia Gabier](https://github.com/ereshia)                                                | egabier@sandtech.com
-| [Annegret Muller](https://github.com/AnnegretExplore)                                       | amuller@sandtech.com
-| [Zintle Faltein-Maqubela](https://github.com/ZintleFaltein)                                                                   | zfaltein-maqubela@sandtech.com
+| [Jana Liebenberg-Fouche](https://github.com/Jana-Liebenberg)                                | jliebenberg-fouche@sandtech.com
+| [Edmund Dotsey](https://github.com/Edotsey)                                                 | edotsey@sandtech.com
+| [Farayi Myambo](https://github.com/Farayi-Explore)                                          | fmyambo@sandtech.com
+
+
+
+#### Additional Resources to create a README file:
+- [Make a README](https://www.makeareadme.com/)
+- [GitHub Docs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
+- [FreeCodeCamp](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
