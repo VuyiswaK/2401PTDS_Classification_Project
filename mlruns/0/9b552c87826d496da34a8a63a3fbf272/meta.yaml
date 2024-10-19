@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vuyis/OneDrive/EDSA/Classification/2401PTDS_Classification_Project/mlruns/0/9b552c87826d496da34a8a63a3fbf272/artifacts
+end_time: 1729024291907
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b552c87826d496da34a8a63a3fbf272
+run_name: kindly-stork-673
+run_uuid: 9b552c87826d496da34a8a63a3fbf272
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729024287177
+status: 3
+tags: []
+user_id: vuyis

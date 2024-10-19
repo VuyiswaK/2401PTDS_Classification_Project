@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vuyis/OneDrive/EDSA/Classification/2401PTDS_Classification_Project/mlruns/0/111472dcf4e64f66ab43a1dd1e23de52/artifacts
+end_time: 1729024353845
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 111472dcf4e64f66ab43a1dd1e23de52
+run_name: amazing-duck-102
+run_uuid: 111472dcf4e64f66ab43a1dd1e23de52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729024349439
+status: 3
+tags: []
+user_id: vuyis

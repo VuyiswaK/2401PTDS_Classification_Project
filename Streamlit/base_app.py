@@ -35,6 +35,8 @@ import pandas as pd
 # Load your raw data
 #raw = pd.read_csv("streamlit/train.csv")
 
+model = joblib.load('classification_model.pkl')
+
 # The main function where we will build the actual app
 def main():
 	"""News Classifier App with Streamlit """

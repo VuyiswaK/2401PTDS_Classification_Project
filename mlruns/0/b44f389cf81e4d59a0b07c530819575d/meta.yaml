@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vuyis/OneDrive/EDSA/Classification/2401PTDS_Classification_Project/mlruns/0/b44f389cf81e4d59a0b07c530819575d/artifacts
+end_time: 1729024363269
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b44f389cf81e4d59a0b07c530819575d
+run_name: unique-ram-511
+run_uuid: b44f389cf81e4d59a0b07c530819575d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729024358959
+status: 3
+tags: []
+user_id: vuyis

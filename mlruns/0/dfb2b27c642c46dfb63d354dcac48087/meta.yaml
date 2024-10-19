@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vuyis/OneDrive/EDSA/Classification/2401PTDS_Classification_Project/mlruns/0/dfb2b27c642c46dfb63d354dcac48087/artifacts
+end_time: 1729023972789
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dfb2b27c642c46dfb63d354dcac48087
+run_name: traveling-swan-364
+run_uuid: dfb2b27c642c46dfb63d354dcac48087
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729023955365
+status: 3
+tags: []
+user_id: vuyis

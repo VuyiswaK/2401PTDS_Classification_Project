@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vuyis/OneDrive/EDSA/Classification/2401PTDS_Classification_Project/mlruns/0/d4303fbd24094808aa316fc3d68df3b2/artifacts
+end_time: 1729023847424
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4303fbd24094808aa316fc3d68df3b2
+run_name: handsome-auk-568
+run_uuid: d4303fbd24094808aa316fc3d68df3b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729023838865
+status: 3
+tags: []
+user_id: vuyis

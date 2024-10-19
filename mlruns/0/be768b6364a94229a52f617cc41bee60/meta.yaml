@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vuyis/OneDrive/EDSA/Classification/2401PTDS_Classification_Project/mlruns/0/be768b6364a94229a52f617cc41bee60/artifacts
+end_time: 1729024277417
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be768b6364a94229a52f617cc41bee60
+run_name: polite-colt-794
+run_uuid: be768b6364a94229a52f617cc41bee60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729024247172
+status: 3
+tags: []
+user_id: vuyis

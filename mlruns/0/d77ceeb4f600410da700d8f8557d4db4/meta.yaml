@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vuyis/OneDrive/EDSA/Classification/2401PTDS_Classification_Project/mlruns/0/d77ceeb4f600410da700d8f8557d4db4/artifacts
+end_time: 1729023838818
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d77ceeb4f600410da700d8f8557d4db4
+run_name: zealous-hare-543
+run_uuid: d77ceeb4f600410da700d8f8557d4db4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729023830054
+status: 3
+tags: []
+user_id: vuyis

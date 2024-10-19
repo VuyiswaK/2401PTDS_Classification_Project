@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vuyis/OneDrive/EDSA/Classification/2401PTDS_Classification_Project/mlruns/0/4664dc9a6a1e4d61b09b7052b5b3d424/artifacts
+end_time: 1729023821264
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4664dc9a6a1e4d61b09b7052b5b3d424
+run_name: likeable-loon-412
+run_uuid: 4664dc9a6a1e4d61b09b7052b5b3d424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729023812204
+status: 3
+tags: []
+user_id: vuyis

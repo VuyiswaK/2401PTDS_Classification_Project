@@ -1,0 +1,9 @@
+digest: f29bca18
+name: dataset
+profile: '{"features_shape": [1880, 86], "features_size": 161680, "features_nbytes":
+  1293440}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"int64\", \"shape\": [-1, 86]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "vuyis", "mlflow.source.name": "C:\\Users\\vuyis\\anaconda3\\lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

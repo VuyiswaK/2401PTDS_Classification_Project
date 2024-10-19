@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vuyis/OneDrive/EDSA/Classification/2401PTDS_Classification_Project/mlruns/0/19e7e83357f7405fab7da7cb1b928ecc/artifacts
+end_time: 1729024296950
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19e7e83357f7405fab7da7cb1b928ecc
+run_name: casual-sow-232
+run_uuid: 19e7e83357f7405fab7da7cb1b928ecc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729024291942
+status: 3
+tags: []
+user_id: vuyis

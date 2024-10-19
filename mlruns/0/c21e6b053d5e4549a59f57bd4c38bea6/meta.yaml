@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vuyis/OneDrive/EDSA/Classification/2401PTDS_Classification_Project/mlruns/0/c21e6b053d5e4549a59f57bd4c38bea6/artifacts
+end_time: 1729023856242
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c21e6b053d5e4549a59f57bd4c38bea6
+run_name: intelligent-lynx-770
+run_uuid: c21e6b053d5e4549a59f57bd4c38bea6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729023847456
+status: 3
+tags: []
+user_id: vuyis

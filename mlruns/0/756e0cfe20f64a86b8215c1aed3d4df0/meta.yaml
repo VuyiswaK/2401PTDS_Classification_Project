@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vuyis/OneDrive/EDSA/Classification/2401PTDS_Classification_Project/mlruns/0/756e0cfe20f64a86b8215c1aed3d4df0/artifacts
+end_time: 1729023804824
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 756e0cfe20f64a86b8215c1aed3d4df0
+run_name: amazing-foal-693
+run_uuid: 756e0cfe20f64a86b8215c1aed3d4df0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729023798339
+status: 3
+tags: []
+user_id: vuyis

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vuyis/OneDrive/EDSA/Classification/2401PTDS_Classification_Project/mlruns/0/121cbfd611034f12a09b1c087cdb8d30/artifacts
+end_time: 1729024185132
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 121cbfd611034f12a09b1c087cdb8d30
+run_name: clumsy-turtle-590
+run_uuid: 121cbfd611034f12a09b1c087cdb8d30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729024153897
+status: 3
+tags: []
+user_id: vuyis

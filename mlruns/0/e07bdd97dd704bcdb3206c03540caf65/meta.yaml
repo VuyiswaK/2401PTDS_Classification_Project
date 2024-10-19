@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vuyis/OneDrive/EDSA/Classification/2401PTDS_Classification_Project/mlruns/0/e07bdd97dd704bcdb3206c03540caf65/artifacts
+end_time: 1729024339947
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e07bdd97dd704bcdb3206c03540caf65
+run_name: powerful-deer-767
+run_uuid: e07bdd97dd704bcdb3206c03540caf65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729024335618
+status: 3
+tags: []
+user_id: vuyis
