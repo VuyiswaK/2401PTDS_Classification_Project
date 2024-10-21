@@ -27,6 +27,7 @@ import joblib, os
 # Data dependencies
 import pandas as pd
 import re
+import requests
 
 path = os.getcwd()
 
