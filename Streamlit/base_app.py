@@ -19,6 +19,7 @@ For further help with the Streamlit framework, see:
 
 https://docs.streamlit.io/en/latest/
 """
+
 # Streamlit dependencies
 import streamlit as st
 import joblib
@@ -26,12 +27,14 @@ import os
 import pandas as pd
 import re
 import requests
+from io import BytesIO  # Import BytesIO
 
 # Function to fetch and load a pickle file from a URL
 def load_pickle_from_url(url):
     response = requests.get(url)
     if response.status_code == 200:
-        return joblib.loads(response.content)
+        # Use BytesIO to treat the bytes response as a file-like object
+        return joblib.load(BytesIO(response.content))
     else:
         st.error(f"Error loading the file from URL: {url} (Status code: {response.status_code})")
         return None
@@ -74,6 +77,7 @@ def main():
 
     if selection == "Prediction":
         st.info("Prediction with ML Models")
+        st.image("https://raw.githubusercontent.com/VuyiswaK/2401PTDS_Classification_Project/main/Streamlit/science-in-the-news.png", use_column_width=True)
         
         # Creating a text box for user input
         news_text = st.text_area("Enter news headline, content or description here", "Type Here")
@@ -96,3 +100,6 @@ def main():
 # Required to let Streamlit instantiate our web app.  
 if __name__ == '__main__':
     main()
+
+
+ 
