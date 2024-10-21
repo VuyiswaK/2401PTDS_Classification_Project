@@ -31,14 +31,18 @@ import re
 path = os.getcwd()
 
 # Vectorizer
-vectorizer_path = path + "\tfidfvect.pkl"
+vectorizer_path = "https://raw.githubusercontent.com/VuyiswaK/2401PTDS_Classification_Project/blob/main/Streamlit/tfidfvect.pkl"
 if os.path.exists(vectorizer_path):
-    test_cv = joblib.load(vectorizer_path)
+    response = requests.get(pkl_url)
+    test_cv = joblib.load(response.content)
+    #test_cv = joblib.load(vectorizer_path)
 else:
     st.error("Vectorizer file not found. Please check the file path.")
 
 # Load your raw data
-raw = pd.read_csv(path + "\train.csv")
+#raw = pd.read_csv(path + "\train.csv")
+raw = pd.read_csv('https://raw.githubusercontent.com/VuyiswaK/2401PTDS_Classification_Project/refs/heads/main/Streamlit/train.csv')
+
 
 # Text cleaning function
 def clean(text):
@@ -92,7 +96,11 @@ def main():
             vect_text = test_cv.transform([cleaned_text]).toarray()
 
             # Load your .pkl file with the model of your choice + make predictions
-            predictor = joblib.load(path + "\classification_model.pkl")
+            #predictor = joblib.load(path + "\classification_model.pkl")
+            pkl_url = "https://raw.githubusercontent.com/VuyiswaK/2401PTDS_Classification_Project/blob/main/Streamlit/classification_model.pkl"
+            response = requests.get(pkl_url)
+            predictor = joblib.load(response.content)
+            #predictor = joblib.load(path + "\classification_model.pkl")
             prediction = predictor.predict(vect_text)
 
             # When model has successfully run, will print prediction
