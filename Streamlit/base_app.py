@@ -31,14 +31,14 @@ import re
 path = os.getcwd()
 
 # Vectorizer
-vectorizer_path = path + "\\tfidfvect.pkl"
+vectorizer_path = path + "\tfidfvect.pkl"
 if os.path.exists(vectorizer_path):
     test_cv = joblib.load(vectorizer_path)
 else:
     st.error("Vectorizer file not found. Please check the file path.")
 
 # Load your raw data
-raw = pd.read_csv(path + "\\train.csv")
+raw = pd.read_csv(path + "\train.csv")
 
 # Text cleaning function
 def clean(text):
@@ -79,7 +79,7 @@ def main():
     # Building out the "Prediction" page
     if selection == "Prediction":
         st.info("Prediction with ML Models")
-        st.image(path + "\\science-in-the-news.png", use_column_width=True)
+        st.image(path + "\science-in-the-news.png", use_column_width=True)
         
         # Creating a text box for user input
         news_text = st.text_area("Enter news headline, content or description here", "Type Here")
@@ -92,7 +92,7 @@ def main():
             vect_text = test_cv.transform([cleaned_text]).toarray()
 
             # Load your .pkl file with the model of your choice + make predictions
-            predictor = joblib.load(path + "\\classification_model.pkl")
+            predictor = joblib.load(path + "\classification_model.pkl")
             prediction = predictor.predict(vect_text)
 
             # When model has successfully run, will print prediction
