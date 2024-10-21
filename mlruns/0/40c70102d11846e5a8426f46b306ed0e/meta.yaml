@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vuyis/OneDrive/EDSA/Classification/2401PTDS_Classification_Project/mlruns/0/40c70102d11846e5a8426f46b306ed0e/artifacts
+end_time: 1729368872494
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40c70102d11846e5a8426f46b306ed0e
+run_name: fun-gull-102
+run_uuid: 40c70102d11846e5a8426f46b306ed0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729368859130
+status: 4
+tags: []
+user_id: vuyis
